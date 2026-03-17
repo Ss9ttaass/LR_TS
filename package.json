@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "ts-loader": "^9.5.4",
+    "typescript": "^5.9.3"
+  }
+}
